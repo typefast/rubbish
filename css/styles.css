@@ -1,0 +1,42 @@
+
+/*******************
+	General styling
+*******************/
+
+body {
+	font-family: sans-serif;
+}
+
+p {
+	margin-top: .5em;
+	padding: 1em;
+	color: #111;
+	font-style: italic;
+	letter-spacing: 3px;
+	text-shadow: 1px 1px 0 #333;
+}
+
+img {
+	width: 20%;
+	margin-top: 5em;
+	margin-left: 5em;
+	margin-right: 5em;
+}
+
+button {
+	margin: 1em;
+}
+
+.wrapper {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.ui-dialog {
+	background: steelblue;
+}
+
+.ui-widget-header {
+	background: slategrey;
+}
+
